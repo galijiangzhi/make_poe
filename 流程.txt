@@ -1,0 +1,2 @@
+1.采集数据集，https://github.com/chinese-poetry/chinese-poetry
+2.数据集预处理，将唐诗数据集中的伍六七对句提取清洗合成，清洗过程包括繁体转简体，句式匹配等（method/唐诗整理.ipynb）
