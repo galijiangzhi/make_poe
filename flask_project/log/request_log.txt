@@ -1,7 +1,16 @@
-Time: 2025-03-24 11:28:40, User Input: 青海民族大学, Result: 青海民族大学，苍分光盖如种
-Time: 2025-03-24 11:28:56, User Input: 深度学习系统, Result: 深度学习系统，快紫造为犯冠
-Time: 2025-03-24 13:08:03, User Input: 一行征燕向南飞, Result: 一行征燕向南飞，淡庭江鹰如马土
-Time: 2025-03-24 13:08:26, User Input: 床前明月光, Result: 床前明月光，娱旧类弊夜
-Time: 2025-03-24 13:09:49, User Input: 少年力学志须彊, Result: 少年力学志须彊，得失由来一梦长
-Time: 2025-03-24 13:09:55, User Input: 试问邯郸欹枕客, Result: 试问邯郸欹枕客，人间几度熟黄粱
-Time: 2025-03-24 13:10:01, User Input: 脂脸轻匀作艳粧, Result: 脂脸轻匀作艳粧，未应洁白似梅香
+{"time": "2025-04-12 15:27:41", "input": "以为情所困为主题写一首诗", "poem_type": "五言律诗/Wuyanlvshi", "result": "月满花间路，夜深人欲无。\n情牵深意在，相望不成珠。\n红颜易老易，白发催人去。\n情牵此恨无，空对月如花。", "processing_time": 181.66}
+{"time": "2025-04-12 15:42:12", "input": "以为春天为主题写一首诗", "poem_type": "七言律诗/Wuyanlvshi", "result": "东风轻拂百花香，燕舞晴空日影长。\n柳岸垂丝添翠色，桃林绽蕊映红妆。\n山青水碧云间绕，蝶戏蜂忙蕊上狂。\n最是一年佳景处，春光满眼韵悠扬。", "processing_time": 193.61}
+
+{"time": "2025-05-20 08:52:21", "input": "写一首毕业的离别诗", "poem_type": "五言绝句/Wuyanjueju", "result": "[WinError 10061] 由于目标计算机积极拒绝，无法连接。", "processing_time": 2.58}
+{"time": "2025-05-20 08:52:33", "input": "写一首毕业的离别诗", "poem_type": "五言绝句/Wuyanjueju", "result": "[WinError 10061] 由于目标计算机积极拒绝，无法连接。", "processing_time": 2.14}
+{"time": "2025-05-20 08:55:08", "input": "写一首毕业的离别诗", "poem_type": "五言律诗/Wuyanlvshi", "result": "[WinError 10061] 由于目标计算机积极拒绝，无法连接。", "processing_time": 2.15}
+{"time": "2025-05-20 08:57:23", "input": "写一首毕业的离别诗", "poem_type": "七言律诗/Qiyanlvshi", "result": "[WinError 10061] 由于目标计算机积极拒绝，无法连接。", "processing_time": 2.28}
+{"time": "2025-05-20 08:58:24", "input": "写一首毕业的离别诗", "poem_type": "七言律诗/Qiyanlvshi", "result": "[WinError 10061] 由于目标计算机积极拒绝，无法连接。", "processing_time": 2.26}
+{"time": "2025-05-20 09:04:18", "input": "毕业", "poem_type": "五言律诗/Wuyanlvshi", "result": "[WinError 10061] 由于目标计算机积极拒绝，无法连接。", "processing_time": 2.6}
+{"time": "2025-05-20 10:02:59", "input": "大学毕业了写一段毕业诗", "poem_type": "五言绝句/Wuyanjueju", "result": "临别赠言频，依依惜别情。\n但愿同行路，后会两无名。", "processing_time": 62.07}
+{"time": "2025-05-20 10:05:40", "input": "给我写一首毕业为主题的诗", "poem_type": "五言绝句/Wuyanjueju", "result": "朝夕伴学友，今日却别离。\n愿君常记取，好梦到天涯。", "processing_time": 61.39}
+{"time": "2025-05-20 10:07:15", "input": "给我以大学毕业为主题写一首诗", "poem_type": "五言绝句/Wuyanjueju", "result": "书剑走千里，学海苦无涯。\n梦回燕园里，别泪已沾巾。", "processing_time": 62.45}
+{"time": "2025-05-20 10:08:29", "input": "给我以大学开学为主题写一首诗", "poem_type": "五言绝句/Wuyanjueju", "result": "朝气满堂堂，才子纷争场。\n学海无涯苦，莫愁苦不休。", "processing_time": 61.4}
+{"time": "2025-05-20 10:10:34", "input": "给我以大学生活为主题写一首诗", "poem_type": "如梦令/Rumengling", "result": "朝暮经年苦读，未许青春过早。莫怕负英姿，更看今朝光耀。\n风暴，风暴，风雨方知坚强。", "processing_time": 96.14}
+{"time": "2025-05-20 10:13:36", "input": "以青海民族大学为主题生成一首诗", "poem_type": "七言律诗/Qiyanlvshi", "result": "人间天上本无分，只恐无缘话有缘。\n海阔凭鱼皆可渡，谁言青海是孤山。\n大学学术崇英华，万世流芳是实堪。\n壮志凌云展翅翼，青海民族大家风。", "processing_time": 152.38}
+{"time": "2025-05-20 10:18:59", "input": "以青海民族大学为主题生成一首诗", "poem_type": "沁园春/Qinyuanchun", "result": "举世皆知，青海民族，大学卓越。历几代几代，百尺竿头，一片春意，满院芳华。教育人才，为国栋梁，万代流芳永世夸。青海大，是国士之魂，大有大才。\n青海大学荣光，青海大学人才代。青海大学生，勤奋学习，青海大学，为国栋梁。人才代代，青海大学，青海大学人才代。青海大，是国士之魂，大有大才。", "processing_time": 307.19}
